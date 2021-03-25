@@ -18,7 +18,7 @@ class LocalDataSourceUserDev {
     data: <Data>[
       Data(
         id: 2,
-        email: 'janet.weaver@reqres.in',
+        email: 'janet.weaver@rqres.in',
         firstname: 'Janet',
         lastname: 'Weaver',
         avatar: 'https://reqres.in/img/faces/2-image.jpg',
